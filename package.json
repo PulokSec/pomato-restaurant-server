@@ -1,14 +1,14 @@
 {
   "name": "mern-res-backend",
   "version": "1.0.0",
-  "description": "\"Simple Backend API service for Red Onion Restaura\"",
+  "description": "\"Mern restaurant management\"",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Solaiman Shadin",
-  "license": "ISC",
+  "author": "Pulok Chowdhury",
+  "license": "",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
